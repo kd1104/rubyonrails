@@ -20,3 +20,4 @@ The command `rails new <app name>` is used to create the files and folders that 
 [Getting Started with Rails]: http://guides.rubyonrails.org/v3.2.8/getting_started.html#creating-the-blog-application
 
 
+test
